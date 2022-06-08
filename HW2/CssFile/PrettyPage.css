@@ -1,0 +1,117 @@
+.headpic{
+    height: 300px;
+    background-image: url(../picture/PrettyPage.jpg);
+    background-repeat: no-repeat;
+    background-position:0px -400px;
+    background-size: cover;
+
+}
+
+#navbarNav{
+    background-color: rgb(219, 219, 219);
+
+}
+
+nav.nav{
+    border-bottom: solid rgb(211, 210, 210) 2px;
+    background-color: rgb(219, 219, 219);
+}
+
+.nav-link{
+    color:grey;
+    font-weight: 400;
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+li{
+    border-right: white solid 1px;
+    border-left: white solid 1px;
+    padding: 0px 5px;
+}
+.nav-item:hover {
+    background-color: grey;
+    
+}
+.nav-link:focus{
+color: white;
+
+}
+.nav-item:hover> .nav-link{
+    color:white;
+}
+
+
+
+h1{
+    position:relative;
+    top: 255px;
+    left: 871px;
+    font-size: 2em;
+    color: white;
+
+}
+
+#footer{
+    background-color: rgb(137, 189, 16);
+    padding: 20px 5px 40px 5px;
+    box-sizing: border-box;
+}
+
+#footer > p{
+    padding-left: 150px;
+}
+
+#footer > p >span{
+    text-decoration: underline;
+}
+
+.box{
+    margin:20px;
+    padding: 20px;
+    border: solid rgb(209, 209, 209) 2px;
+    border-radius: 10px;
+}
+
+h2{
+    color:rgb(137, 189, 16);
+    font-weight: 500px;
+    margin:0px 0px 15px 0px;
+    box-sizing: border-box;
+}
+a{
+    color:rgb(137, 189, 16);
+}
+
+h3{
+    font-size: 15px;
+    margin:0px;
+}
+
+
+.h3{
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+body h3{
+    font-weight: 700;
+}
+
+body .h3{
+    font-weight: 700;
+}
+
+
+.subrow{
+    margin:10px 0px;
+}
+
+.item>p{
+    margin:0px;
+}
+
+.box1{
+    background-color: rgb(220, 226, 212);
+}

@@ -1,0 +1,113 @@
+.btn{
+    color: white;
+    background-color: orange;
+    border:0;
+    border-radius: 0%;
+    height: fit-content;
+    font-size: 10px;
+    margin-left: 600px;
+}
+
+.navbar{
+    background-image: url(https://i.pinimg.com/736x/d2/d9/73/d2d9738a31f44feee277b03a8a40b348.jpg);
+    background-position: 200px;
+
+}
+
+body{
+    background-color: rgb(224, 224, 224);
+}
+
+.container {
+    max-width: 600px !important;
+    background-color: none;
+}
+
+h1{
+    color:rgb(5, 69, 143);
+    font-weight: 500;
+    font-size: 20px;
+    padding-top:30px;
+}
+
+h2{
+    color:rgb(4, 65, 134);
+    font-size: 12px;
+
+}
+
+h3{
+    font-size: 9px;
+    text-align: right;
+    
+}
+
+h4{
+    font-weight: 100;
+    font-size: 7px;
+
+}
+
+.card{
+    padding:10px;
+    padding-bottom: 0px;
+    border-radius: 0;
+    border: rgb(212, 212, 212) 1px solid;
+    border-collapse: collapse;
+}
+
+p{
+    font-size: 8px;
+    margin-left: -4px;
+    margin-right: -4px;
+}
+
+
+.page-link{
+    background-color: rgb(81, 153, 212);
+    color:white;
+    font-size: 7px;
+    border-radius: 0 !important;
+}
+.page-item{
+    border-radius: 0;
+}
+.pagination {
+    padding:20px 0px;
+}
+.page-link:focus{
+    background-color:orange;
+    box-shadow: none;
+    color:white;
+}
+
+hr{
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.card-footer{
+    background-color: rgba(0,0,0,0);
+    padding-bottom: 0px;
+    border:none;
+    
+}
+
+.tips{
+    float:left;
+}
+
+.card-footer p{
+    font-size: 7px;
+    font-weight: 700;
+    color:black;
+    line-height: normal;
+}
+
+.tags{
+    padding-right: 0px;
+}
+
+.content{
+    padding-left:0px;
+}

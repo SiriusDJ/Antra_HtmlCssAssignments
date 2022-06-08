@@ -1,0 +1,27 @@
+.navbar-brand{
+    color:black
+}
+
+.nav-link{
+    color:black;
+}
+
+.container{
+    padding-top: 30px;
+}
+
+.btn-create{
+    background-color: white;
+    color: #0d6efd;
+    border: #0d6efd solid 1px;
+    margin-right: 5px;
+}
+
+.btn-register{
+    text-decoration: underline;
+    color: white;
+    background-color: #0d6efd;
+    border:none;
+    padding: 3px;
+    border-radius: 0px;
+}
