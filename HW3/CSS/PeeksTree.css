@@ -1,0 +1,105 @@
+body::before{
+    background: url(https://84-iase-web-01.84lumber-iase1.p.azurewebsites.net/media/1333/lumber_cover.jpg) no-repeat center center;
+}
+
+.container{
+    width: 50%;
+    background-color: white;
+}
+
+.nav-bar{
+    height: 20px;
+    padding: 0px 10px;
+}
+
+.nav-link{
+    font-size: 14.4px;
+    font-weight: 500;
+    color: rgb(51,51,51);
+    font-family: Play, sans-serif;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.nav-link:hover{
+    color: rgb(255,255,255);
+}
+
+.nav-item{
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+.nav-item:hover{
+    background-color: rgb(51,51,51);
+}
+
+h1{
+    font-size: 38px;
+    color:rgb(99,99,99);
+    text-align: center;
+}
+
+hr{
+    color: rgb(70,70,70);
+    height: 2px !important;
+    background-color: rgb(70,70,70);
+
+}
+.paragraph{
+    margin: 40px 0px;
+}
+
+p{
+    color:rgb(127,127,127);
+}
+
+h2{
+    color:rgb(89,89,89);
+    text-align: center;
+    font-weight: 400;
+}
+.help{
+    border:solid;
+    text-align: center; 
+    margin: 20px 15%;
+    background-color: #fff; 
+    border: #c9c9c9 solid 1px; 
+    padding: 15px;
+}
+
+.widgetWord{
+    position: relative;
+    bottom: 50px;
+    left:40px;
+    color: white;
+    font-weight: 500;
+    text-shadow: 2px 2px black !important;
+}
+
+.widgetSlideImage{
+    width: 99%;
+}
+
+.div-img{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+}
+
+.bottom-nav-link{
+    color: rgb(99,99,99);
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+    border: 1px solid #888;
+    padding: 7px 20px;
+}
+
+.bottom-nav-item{
+    text-align: center;
+}
+
+
+
